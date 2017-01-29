@@ -1,1 +1,2 @@
-# Kernel_6737m_n370b_m0
+# Kernel_6737m
+#  enter  sh build_*.sh to start compiling...
