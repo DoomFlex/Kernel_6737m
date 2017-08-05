@@ -1,2 +1,2 @@
-# Kernel_6737m
-#  enter  sh build_*.sh to start compiling...
+# Kernel_mt6737 #
+# For n3**b     #
